@@ -6,6 +6,9 @@ settings/
 errors.txt
 OnlineDRC.ERR.txt
 8080_bios/Исходники и прошивка контроллера/
+stm8_fdd.PCB.BAK
+fdd_radio.SCH.BAK
+fdd_radio.net
 stm8_sd.PCB.BAK
 sd_radio.SCH.BAK
 sd_radio.net
