@@ -1,0 +1,9 @@
+Debug/
+settings/
+*.dep
+*.lst
+*.tab
+errors.txt
+OnlineDRC.ERR.txt
+8080_bios/Исходники и прошивка контроллера/
+stm8_sd.PCB.BAK
